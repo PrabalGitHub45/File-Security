@@ -1,0 +1,20 @@
+.firstdiv{
+    width: 95%;
+    height: 500px;
+    border: 6px solid #37d1ef;
+    border-collapse: collapse;
+    margin-left: 2%;
+    margin-top: 2%;
+    background-image: linear-gradient(white,#4af1b5);
+    
+}
+#head1{
+    text-align: center;
+    text-shadow: 2px 2px 2px white,2px 2px 2px rgb(255, 0, 0);
+}
+#des{
+    font-size: large;
+    font-family: verdana;
+    margin-left: 8%;
+    margin-right: 3%;
+}
